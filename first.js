@@ -14,3 +14,7 @@ const upi = "upi is integerated";
 console.log(upi);
 
 console.log("latest update");
+
+//I am fixing some bugs from here
+
+console.log("bug fixed");
